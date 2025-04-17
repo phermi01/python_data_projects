@@ -78,7 +78,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skills for Data Nerds](https://raw.githubusercontent.com/phermi01/python_data_projects/main/3_Project/Images/1_skill_demand_all_data_roles.png)
+![Visualization of Top Skills for Data Nerds](3_Project/Images/1_skill_demand_all_data_roles.png)
 
 ### Insights
 
